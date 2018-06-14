@@ -1,1 +1,1 @@
-Moved to https://github.com/eghm/rice-paddy.git
+Moved to https://gitlab.com/eghm-lab/rice-paddy
